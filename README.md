@@ -24,7 +24,7 @@
 
 - 🧑‍🎓 I’m a fresh graduate at **CINEC**
 
-- 💬 Ask me about **Dart**
+- 👨‍💻 All of my projects are available at [https://rb.gy/66z8hq](https://rb.gy/66z8hq)
 
 - 📫 How to reach me **kavishka.tv99@gmail.com**
   
