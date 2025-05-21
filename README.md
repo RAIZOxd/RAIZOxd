@@ -17,8 +17,6 @@
   
 - 🌱 I’m currently learning **advanced software engineering techniques and exploring new tools and frameworks to enhance my web and mobile development skills.**
 
-- 🧑‍🎓 I’m a fresh graduate at **CINEC**
-
 - 👨‍💻 All of my projects are available at [https://rb.gy/66z8hq](https://rb.gy/66z8hq)
 
 - 📫 How to reach me **kavishka.tv99@gmail.com**
