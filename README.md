@@ -17,7 +17,7 @@
   
 - 🌱 I’m currently learning **advanced software engineering techniques and exploring new tools and frameworks to enhance my web and mobile development skills.**
 
-- 👨‍💻 All of my projects are available at [https://rb.gy/66z8hq](https://rb.gy/66z8hq)
+- 👨‍💻 All of my projects are available at [https://kavishka-vithanage.vercel.app](https://kavishka-vithanage.vercel.app)
 
 - 📫 How to reach me **kavishka.tv99@gmail.com**
   
